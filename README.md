@@ -7,22 +7,23 @@ Program kalkulator ini dibuat dengan menggunakan Bootstrap 4.
 
 
 ## Getting Started
-
 ### Requirements
 
+* Download Bootstrap 4 
+`(https://getbootstrap.com/docs/4.3/getting-started/download)`
+* Download Jquery.js
+`(https://jquery.com/download)`
+* Download Popper.js
+`(https://cdnjs.cloudflare.com/ajax/libs/popper.js)`
 * Browser
-* Web Server
-* Text Editor
 * Sistem Operasi Windows, etc.
 
 ### Installing
 
-- Install Bootstrap 4 
-`<https://getbootstrap.com/docs/4.3/getting-started/download>`
-- Install Jquery.js
-`<https://jquery.com/download>`
-- Install Popper.js
-`<https://cdnjs.cloudflare.com/ajax/libs/popper.js>`
+- Install Web Server (Xampp)
+`(https://www.apachefriends.org/download.html)`
+- Install Text Editor (Sublime Text 3)
+`(https://www.sublimetext.com/3)`
 
 ### Executing Program
 
@@ -51,3 +52,6 @@ Program kalkulator ini dibuat dengan menggunakan Bootstrap 4.
 |───kalkulator.php
 ```
 
+##Credits
+---------
+Annisa Puspa Ranti
