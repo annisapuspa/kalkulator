@@ -1,0 +1,2 @@
+# kalkulator
+program kalkulator sederhana
