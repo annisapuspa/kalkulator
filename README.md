@@ -37,7 +37,7 @@ Program kalkulator ini dibuat dengan menggunakan Bootstrap 4.
 |───kalkulator.php
 ```
 
-### Executing Program
+## Executing Program
 
 * Buka xampp
 * Aktifkan Apache dan MySQL
@@ -54,6 +54,5 @@ Program kalkulator ini dibuat dengan menggunakan Bootstrap 4.
 * Finally, program berhasil dijalankan
 
 ## Credits
-=======
 
 Annisa Puspa Ranti
