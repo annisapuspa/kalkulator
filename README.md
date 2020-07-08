@@ -48,10 +48,11 @@ Program kalkulator ini dibuat dengan menggunakan Bootstrap 4.
 |    ├───css
 |    |	 ├─── **/*.css
 |    └───js
-|		 ├─── **/*.js
+|		     ├─── **/*.js
 |───kalkulator.php
 ```
 
 ##Credits
----------
+=======
+
 Annisa Puspa Ranti
